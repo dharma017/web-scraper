@@ -34,5 +34,5 @@ for job_elem in job_elems:
     if description_elem:
         print(description_elem.text.strip())
 
-    print(f"Apply here: https://www.seek.com.au{link}\n")
+#print(f"Apply here: https://www.seek.com.au{link}")
     print()
